@@ -78,7 +78,6 @@
         "tree-sitter-cloudflare": "tree-sitter-cloudflare",
         "tree-sitter-clue": "tree-sitter-clue",
         "tree-sitter-cmake": "tree-sitter-cmake",
-        "tree-sitter-coalton": "tree-sitter-coalton",
         "tree-sitter-cognate": "tree-sitter-cognate",
         "tree-sitter-comment": "tree-sitter-comment",
         "tree-sitter-commonlisp": "tree-sitter-commonlisp",
@@ -1804,22 +1803,6 @@
       "original": {
         "owner": "uyha",
         "repo": "tree-sitter-cmake",
-        "type": "github"
-      }
-    },
-    "tree-sitter-coalton": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1717720593,
-        "narHash": "sha256-yvSVRF9W3jq/gsIvjw94NDi25pHpMa81uaq4UBSMENc=",
-        "owner": "coalton-lang",
-        "repo": "tree-sitter-coalton",
-        "rev": "7a44c8e6606b95e00b84f6a729f8a9db9e9d73fe",
-        "type": "github"
-      },
-      "original": {
-        "owner": "coalton-lang",
-        "repo": "tree-sitter-coalton",
         "type": "github"
       }
     },

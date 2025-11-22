@@ -306,10 +306,10 @@
       url = "github:uyha/tree-sitter-cmake";
       flake = false;
     };
-    tree-sitter-coalton = {
-      url = "github:coalton-lang/tree-sitter-coalton";
-      flake = false;
-    };
+    # tree-sitter-coalton = {
+    #   url = "github:coalton-lang/tree-sitter-coalton";
+    #   flake = false;
+    # };
     tree-sitter-cognate = {
       url = "github:hedyhli/tree-sitter-cognate";
       flake = false;
